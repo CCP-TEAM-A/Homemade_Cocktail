@@ -21,5 +21,5 @@ export const Box = styled.div`
   background-color: #e9ecef;
   border: 1px solid black;
   border-radius: 10px;
-  text-align: 10px;
+  
 `;

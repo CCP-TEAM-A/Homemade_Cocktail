@@ -17,8 +17,8 @@ function Signin() {
         <div>
           <p> 비밀번호</p>
           <Styled.Pwd placeholder="비밀번호를 입력해주세요"></Styled.Pwd>
-          <p>비밀번호 확인</p>
-          <Styled.Pwd placeholder="비밀번호를 입력해주세요"></Styled.Pwd>
+          <p>닉네임</p>
+          <Styled.Pwd placeholder="닉네임을 입력해주세요"></Styled.Pwd>
           <Styled.StyledButton>
             <p>회원가입</p>
           </Styled.StyledButton>
